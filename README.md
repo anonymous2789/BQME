@@ -1,5 +1,4 @@
 ## Under review
-### the `notebook` folder contains the experiments found in the paper.
 
 # Bayesian Quantile Matching Estimation using Order Statistics
 
